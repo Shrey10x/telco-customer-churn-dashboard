@@ -2,6 +2,12 @@
 📊 Telco Customer Churn Analysis – Excel Dashboard Project
 This project explores customer churn trends using the Telco Customer Churn dataset. Built in Microsoft Excel, it includes data cleaning, exploratory analysis, and dashboard visualization to uncover churn patterns based on contract type, internet service, tenure, and charges.
 
+
+**🖼️ Dashboard Preview:**
+- For quick preview, see the attached PDF version of the dashboard
+![Dashboard Preview](dashboard_preview.png)
+
+
 **💡 Key Features:**
 - Cleaned and transformed real-world dataset using Excel functions and filters
 - Created PivotTables and charts to identify churn-prone groups
@@ -14,8 +20,8 @@ This project explores customer churn trends using the Telco Customer Churn datas
     - Used conditional formatting and layout design for clarity
 
 **📁 Files Included:**
-Telco_Customer_Churn_Dashboard.xlsx
-Telco_Churn_Dashboard.pdf (for easy sharing/viewing)
+- Telco_Customer_Churn_Dashboard.xlsx
+- Telco_Churn_Dashboard.pdf 
 
 **🧰 Tools:**
 Microsoft Excel (Mac)
