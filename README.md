@@ -4,8 +4,9 @@ This project explores customer churn trends using the Telco Customer Churn datas
 
 
 **🖼️ Dashboard Preview:**
-- For quick preview, see the attached PDF version of the dashboard
+- For quick preview, see the attached [PDF](https://github.com/Shrey10x/telco-customer-churn-dashboard/blob/main/Dashboard-Telco_Customer_Churn-1.pdf) version of the dashboard
 ![Dashboard Preview](dashboard_preview.png)
+
 
 
 **💡 Key Features:**
